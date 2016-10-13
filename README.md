@@ -2,6 +2,4 @@
 
 `git clone https://github.com/amolkatdare/dotfiles.git`
 
-`
-ln -s ~/.files/.zshrc ~/.zshrc
-`
+`ln -s dotfiles/.zshrc ~/.zshrc`
